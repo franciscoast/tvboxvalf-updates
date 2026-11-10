@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Launcher Valf - Instaladores</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin:0; background:#0e1420; color:#fff; font-family: system-ui, Arial, sans-serif; }
+  .wrap { max-width:760px; margin:0 auto; padding:28px 20px 48px; }
+  h1 { font-size:26px; margin:6px 0 2px; }
+  p.sub { color:#9fb0c6; margin:0 0 20px; font-size:15px; }
+  a.app {
+    display:block; margin:14px 0; padding:22px 20px; border-radius:16px;
+    background:#182234; border:2px solid #243246; color:#fff; text-decoration:none;
+    font-size:20px; font-weight:600;
+  }
+  a.app:focus, a.app:hover { background:#2f6fe0; border-color:#bfd8ff; outline:none; }
+  a.app small { display:block; font-weight:400; font-size:14px; color:#9fb0c6; margin-top:4px; }
+  a.app:focus small, a.app:hover small { color:#e8f0ff; }
+  .step { color:#9fb0c6; font-size:14px; margin-top:24px; line-height:1.5; }
+  .n { display:inline-block; width:26px; height:26px; line-height:26px; text-align:center;
+       background:#2f6fe0; border-radius:50%; margin-right:10px; font-weight:700; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Launcher Valf · Instaladores</h1>
+  <p class="sub">Tocá cada app para descargarla. Cuando termine, tocá <b>Instalar</b>. Hacelas en este orden.</p>
+
+  <a class="app" href="https://f-droid.org/repo/com.tailscale.ipn_298943510.apk">
+    <span class="n">1</span> Tailscale
+    <small>Para la conexión a distancia</small>
+  </a>
+  <a class="app" href="https://f-droid.org/repo/com.termux_1002.apk">
+    <span class="n">2</span> Termux
+    <small>Para abrir la puerta de instalación</small>
+  </a>
+  <a class="app" href="https://f-droid.org/repo/com.termux.boot_1000.apk">
+    <span class="n">3</span> Termux:Boot
+    <small>Para que la puerta quede automática (abrila una vez después de instalar)</small>
+  </a>
+
+  <div class="step">
+    <p><span class="n">✓</span> Si al instalar pide permitir <b>"Fuentes desconocidas"</b>, activá Downloader y volvé atrás.</p>
+    <p>Después abrí Tailscale, tocá <b>Log in</b>, y avisale al técnico.</p>
+  </div>
+</div>
+</body>
+</html>
