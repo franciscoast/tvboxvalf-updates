@@ -1,0 +1,49 @@
+{
+  "sections": [
+    "Premium:com.priv.tv",
+    "TV:com.zenith.tv,com.fctv77.app,com.worldtv2.tvclasica,com.playtv.premium,com.xuper.xuper,tv.boxvalf,com.full.box,com.magis.tioNel,com.advance.smart,com.geetmark.foxiptvplayes",
+    "Películas y series:tv.mxlmovies.app,com.cgm.ipelis,com.modocine,com.dpsteam.filmplus,org.clipbox.player",
+    "Favoritos:com.google.android.youtube.tv,io.gh.reisxd.tizentube.fortaleza,com.netflix.ninja,com.amazon.amazonvideo.livingroom,com.disney.disneyplus,com.spotify.tv.android,tv.twitch.android.app,com.kick.mobile,com.wbd.stream",
+    "Recientes:@recent",
+    "Soporte:*"
+  ],
+  "dock_row": false,
+  "date_below_clock": true,
+  "always_show_names": true,
+  "app_glow": true,
+  "glow_style": "horizon",
+  "focus_overshoot": false,
+  "icon_only_buttons": true,
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 0,
+  "wallpaper_dim": 35,
+  "wallpaper_captions": false,
+  "columns": 4,
+  "advanced_effects": true,
+  "home_idle_clock_minutes": 5,
+  "clock_wallpaper": true,
+  "clock_wallpaper_dim": 30,
+  "wallpaper_true_color": true,
+  "tile_gap": 24,
+  "wallpaper_button": true,
+  "show_network_pill": false,
+  "power_on_home_always": true,
+  "app_banners": [
+    "com.fctv77.app=banner_fctv33",
+    "tv.boxvalf=banner_valf"
+  ],
+  "boost_button": true,
+  "splash": true,
+  "support_text": "Escaneá con tu celular para hablar con TV Box Valf por WhatsApp",
+  "clock_format": "24",
+  "library_apps": [
+    "com.advance.smart",
+    "com.full.box",
+    "com.worldtv2.tvclasica",
+    "tv.boxvalf",
+    "com.geetmark.foxiptvplayes",
+    "com.example.myapplicatioo"
+  ],
+  "update_url": "https://raw.githubusercontent.com/franciscoast/tvboxvalf-updates/main/version.json",
+  "box_id": "64d07cd10050acfb"
+}
