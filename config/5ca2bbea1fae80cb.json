@@ -21,6 +21,8 @@
   "columns": 4,
   "advanced_effects": true,
   "home_idle_clock_minutes": 5,
+  "weather_lat": -24.7859,
+  "weather_lon": -65.4117,
   "clock_wallpaper": true,
   "clock_wallpaper_dim": 30,
   "wallpaper_true_color": true,
