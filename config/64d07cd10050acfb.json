@@ -47,5 +47,6 @@
     "com.example.myapplicatioo"
   ],
   "update_url": "https://raw.githubusercontent.com/franciscoast/tvboxvalf-updates/main/version.json",
-  "box_id": "64d07cd10050acfb"
+  "box_id": "64d07cd10050acfb",
+  "support_key": "e06ca7154733102c47f25ec4f5293ab88c8cbd53e1593bd77f367bf92e2dd310"
 }

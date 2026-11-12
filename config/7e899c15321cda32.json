@@ -48,5 +48,6 @@
   ],
   "update_url": "https://raw.githubusercontent.com/franciscoast/tvboxvalf-updates/main/version.json",
   "wallpaper_video": "paisaje.mp4",
-  "box_id": "7e899c15321cda32"
+  "box_id": "7e899c15321cda32",
+  "support_key": "e06ca7154733102c47f25ec4f5293ab88c8cbd53e1593bd77f367bf92e2dd310"
 }
