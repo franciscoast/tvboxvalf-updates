@@ -3,7 +3,7 @@
     "Premium:com.priv.tv",
     "TV:com.zenith.tv,com.fctv77.app,com.worldtv2.tvclasica,com.playtv.premium,com.xuper.xuper,tv.boxvalf,com.full.box,com.magis.tioNel,com.advance.smart,com.geetmark.foxiptvplayes",
     "Películas y series:tv.mxlmovies.app,com.cgm.ipelis,com.modocine,com.dpsteam.filmplus,org.clipbox.player",
-    "Favoritos:com.google.android.youtube.tv,io.gh.reisxd.tizentube.fortaleza,com.netflix.ninja,com.amazon.amazonvideo.livingroom,com.disney.disneyplus,com.spotify.tv.android,tv.twitch.android.app,com.kick.mobile,com.wbd.stream",
+    "Favoritos:org.smarttube.stable,com.google.android.youtube.tv,io.gh.reisxd.tizentube.fortaleza,com.netflix.ninja,com.amazon.amazonvideo.livingroom,com.disney.disneyplus,com.spotify.tv.android,tv.twitch.android.app,com.kick.mobile,com.wbd.stream",
     "Recientes:@recent",
     "Soporte:*"
   ],
@@ -50,5 +50,8 @@
   "support_key": "e06ca7154733102c47f25ec4f5293ab88c8cbd53e1593bd77f367bf92e2dd310",
   "perf_mode": "lite",
   "restore_key_services": true,
-  "box_id": "b63b8006e931fbf3"
+  "box_id": "b63b8006e931fbf3",
+  "app_labels": [
+    "org.smarttube.stable=YouTube"
+  ]
 }
